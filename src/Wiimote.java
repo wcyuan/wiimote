@@ -10,7 +10,6 @@ import wiiremotej.WiiRemoteJ;
 public class Wiimote
 {
 
-    private 
     /**
      * Constructs Wiimote
      */
