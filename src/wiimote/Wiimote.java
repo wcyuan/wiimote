@@ -1,3 +1,4 @@
+package wiimote;
 import wiiremotej.WiiRemoteJ;
 
 /*
