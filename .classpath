@@ -6,7 +6,7 @@
 			<attribute name="javadoc_location" value="file:/C:/Users/yuanc/dev/wiimote/docs/wiimotej/"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="lib/bluecove-2.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/bluecove-2.1.0.jar" sourcepath="lib/bluecove-2.1.0-source"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
